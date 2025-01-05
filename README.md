@@ -27,6 +27,7 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 
 ### Currently working on:
 - 📘 Learning and solving challenges on TryHackMe and Hack The Box to sharpen my pentesting skills 🧑‍💻🔐
+- 🎥 Creating engaging cybersecurity content on TikTok to educate and inspire!
 - 💻 Diving deep into PortSwigger and Burp Suite
 - 📂 Creating more repositories for cybersecurity resources
 - 📱 Advancing in iOS development
