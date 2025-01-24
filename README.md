@@ -15,6 +15,7 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 ---
 
 ### About Me
+- 📂 **[GitHub CV](https://github.com/pwnVader/portfolio)** – Check out my portfolio and tools I'm working on!
 - 🧑‍🎓 Student at **TECNM**
 - 🇲🇽 Mexican
 - 🧩 CTF player 🔐
