@@ -63,16 +63,10 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 
 ---
 
-### Development Environments and Tools:
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical)
 
 ---
 
 ### Visit Counter
-![Visitor Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/pwnVader)
+![Visitor Count](https://profile-counter.glitch.me/pwnVader/count.svg)
 
