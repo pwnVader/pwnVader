@@ -71,4 +71,8 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical)
 
+---
+
+### Visit Counter
+![Visitor Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/pwnVader)
 
