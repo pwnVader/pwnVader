@@ -35,6 +35,25 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 
 ---
 
+### My Projects:
+
+- **[DorkSniper - Google Dork Generator](https://pwnvader.github.io/DorkSniper/)**  
+  :dart: A web-based tool that generates categorized Google Dorks for OSINT and bug bounty reconnaissance.
+
+- **[HackerHub - Cybersecurity Tools Repository](https://pwnvader.github.io/HackerHub/)**  
+  :toolbox: A collection of open-source cybersecurity tools, including OSINT, penetration testing, and more.
+
+- **[DarkScan - Network Scanner](https://github.com/pwnVader/DarkScan)**  
+  :mag: A Python-based tool that uses Nmap to identify active devices and generate reports for network analysis.
+
+- **[Cybersecurity Content Creation on TikTok](https://www.tiktok.com/@krakensec101)**  
+  :video_camera: Creating engaging cybersecurity content on TikTok, making complex topics accessible to a broad audience.
+
+- **[BruteShield - Password Tool 🛡️](https://pwnvader.github.io/BruteShield/)**  
+  :lock: A tool to check password strength and generate secure passwords. Estimates how long it would take to crack.
+
+---
+
 ### Languages and Technologies I know:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -55,18 +74,12 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 
 ---
 
-### Technologies I want to learn:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SOC (Security Operations Center)](https://img.shields.io/badge/SOC-4B0082?style=for-the-badge&logo=security&logoColor=white)
-![CyberArk](https://img.shields.io/badge/CyberArk-0072C6?style=for-the-badge&logo=cyberark&logoColor=white)
+### Technologies that I'm still learning:
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![SOC](https://img.shields.io/badge/SOC-4B0082?style=for-the-badge&logo=security&logoColor=white)](https://www.soc.com/)
 
 ---
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical)
-
----
-
-### Visit Counter
-![Visitor Count](https://profile-counter.glitch.me/pwnVader/count.svg)
-
+### Visit Counter:
+| ![Visitor Count](https://profile-counter.glitch.me/pwnVader/count.svg) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical) |
+|:---:|:---:|
