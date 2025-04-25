@@ -1,6 +1,6 @@
 # 👾 Hi! I'm Jesus 
 
-Computer Systems Engineering Student | Passionate about Cybersecurity and Ethical Hacking | Technology Explorer 💻
+Computer Systems Engineering | 🛡️ Junior Pentester (Preparing for eJPTv2) | 💻 Passionate about Cybersecurity, Ethical Hacking, and Cybersecurity Content Creator | Purple Team
 
 ---
 
@@ -8,7 +8,6 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusperezromero/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pwnvader)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pwnVader)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frostblade1337)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/pwnVader)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.broadways405@passmail.net) 
 
@@ -26,6 +25,7 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and Ethica
 ---
 
 ### Currently working on:
+- 🧪 Preparing for the eLearnSecurity Junior Penetration Tester (eJPTv2) certification – focusing on networking, web app exploitation, and practical pentesting techniques
 - 📘 Learning and solving challenges on TryHackMe and Hack The Box to sharpen my pentesting skills 🧑‍💻🔐
 - 🎥 Creating engaging cybersecurity content on TikTok to educate and inspire!
 - 💻 Diving deep into PortSwigger and Burp Suite
