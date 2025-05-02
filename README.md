@@ -14,7 +14,7 @@ Computer Systems Engineering | 🛡️ Junior Pentester (Preparing for eJPTv2) |
 ---
 
 ### About Me <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM0M21zOTk4MWlxcGVsaWtmeXZxOWdrMnU3cTdibWFlMDRrMTgzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="30%" />
-- 📂 **[GitHub CV](https://pwnvader.github.io/)** – Check out my portfolio and tools I'm working on! 
+- 📂 **[Portfolio](https://pwnvader.github.io/)** – Check out my portfolio and tools I'm working on! 
 - 🧑‍🎓 Student at **TECNM**
 - 🧩 CTF player 🔐
 - 🎯 Goal: Become a Junior Pentester
