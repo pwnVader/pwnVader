@@ -11,11 +11,33 @@ Cybersecurity Student · Junior Pentester in Training · Purple‑Team�
 ---
 
 ## 📬  &nbsp;Find me online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusperezromero/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pwnvader)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pwnVader)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/pwnVader)
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.broadways405@passmail.net)
+<table>
+  <tr>
+    <td>
+
+<!-- Botones sociales -->
+<a href="https://www.linkedin.com/in/jesusperezromero/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@pwnvader">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://medium.com/@pwnVader">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/r/p/pwnVader">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+<a href="mailto:contacto.broadways405@passmail.net">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pwnVader.png" alt="TryHackMe Badge" width="280"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
