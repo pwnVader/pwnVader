@@ -4,7 +4,9 @@
 
 # 👾 Hey, I’m **Jesús** <sub>(aka `pwnVader`)</sub>
 
-Cybersecurity Student · Junior Pentester in Training · Purple‑Team Fan · Content Creator
+
+Cybersecurity Student · Junior Pentester in Training · Purple‑Team Fan · Content Creator  
+🌐 **Portfolio:** [pwnvader.github.io](https://pwnvader.github.io/)
 
 > **Mission:** make offensive‑security concepts understandable for everyone through open‑source tooling, short‑form video and hands‑on labs.
 
@@ -107,7 +109,5 @@ Cybersecurity Student · Junior Pentester in Training · Purple‑Team�
 
 | ![Visitors](https://profile-counter.glitch.me/pwnVader/count.svg) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical) |
 |:---:|:---:|
-
-> **Tip:** want the web version? → [pwnvader.github.io](https://pwnvader.github.io/)  
 
 *Last updated · May 2025*
