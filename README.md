@@ -43,7 +43,7 @@ Cybersecurity Student · Junior Pentester in Training · Purple‑Team�
 
 ## 👨‍💻 About me
 - 🧑‍🎓 Computer Systems Engineering student – **TECNM**  
-- ⚔️ Top‑5 % player on **TryHackMe** & regular on **Hack The Box**  
+- ⚔️ Top‑4 % player on **TryHackMe** & regular on **Hack The Box**  
 - 🔐 Focused on recon, exploitation & purple‑team detection  
 - 🏆 **Goal 2025:** earn *eJPT v2* & *CPTS*, land a Junior Pentester role  
 - 🌍 Bilingual: Spanish 🇲🇽 · English 🇺🇸  
@@ -64,11 +64,12 @@ Cybersecurity Student · Junior Pentester in Training · Purple‑Team�
 ## 🧰 Featured projects
 | &nbsp; | Project | What it does |
 |:-:|---|---|
+| 🎓 | **[pwn-cards](https://github.com/pwnVader/pwn-cards)** | Visual cheat sheets sobre comandos, redes, scripting y Linux, usados en mi contenido de LinkedIn |
 | 🔍 | **[DorkSniper](https://pwnvader.github.io/DorkSniper/)** | Generates categorized Google Dorks for OSINT / Bug‑Bounty reconnaissance |
 | 🧰 | **[HackerHub](https://pwnvader.github.io/HackerHub/)** | Curated index of go‑to open‑source pentest & OSINT utilities |
 | 🌐 | **[DarkScan](https://github.com/pwnVader/DarkScan)** | Python wrapper for *Nmap* that outputs Markdown/CSV reports |
 | 🔐 | **[BruteShield](https://pwnvader.github.io/BruteShield/)** | Estimates crack‑time & suggests strong passphrases |
-| 🎥 | **TikTok channel** | 24 k followers – demystifying hacking in ≤ 60 s clips |
+| 🎥 | **TikTok channel** | 26 k followers – demystifying hacking in ≤ 60 s clips |
 
 ---
 
