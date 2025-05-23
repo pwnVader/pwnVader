@@ -18,7 +18,7 @@ Cybersecurity Student · Junior Pentester in Training · Purple‑Team�
     <td>
 
 <!-- Botones sociales -->
-<a href="https://www.linkedin.com/in/jesusperezromero/">
+<a href="https://www.linkedin.com/in/jesuspromero/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.tiktok.com/@pwnvader">
