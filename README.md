@@ -45,7 +45,7 @@ Cybersecurity Student · Junior Pentester in Training · Purple‑Team�
 
 ## 👨‍💻 About me
 - 🧑‍🎓 Computer Systems Engineering student – **TECNM**  
-- ⚔️ Top‑4 % player on **TryHackMe** & regular on **Hack The Box**  
+- ⚔️ Top‑3 % player on **TryHackMe** & regular on **Hack The Box**  
 - 🔐 Focused on recon, exploitation & purple‑team detection  
 - 🏆 **Goal 2025:** earn *eJPT v2* & *CPTS*, land a Junior Pentester role  
 - 🌍 Bilingual: Spanish 🇲🇽 · English 🇺🇸  
