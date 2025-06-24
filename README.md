@@ -5,7 +5,7 @@
 # 👾 Hey, I’m **Jesús** <sub>(aka `pwnVader`)</sub>
 
 
-Cybersecurity Student · Junior Pentester in Training · Purple‑Team Fan · Content Creator  
+eJPTv2 · Cybersecurity · Junior Pentester · Content Creator  
 🌐 **Portfolio:** [pwnvader.github.io](https://pwnvader.github.io/)
 
 > **Mission:** make offensive‑security concepts understandable for everyone through open‑source tooling, short‑form video and hands‑on labs.
@@ -45,10 +45,10 @@ Cybersecurity Student · Junior Pentester in Training · Purple‑Team�
 
 ## 👨‍💻 About me
 - 🧑‍🎓 Computer Systems Engineering student – **TECNM**  
-- ⚔️ Top‑3 % player on **TryHackMe** & regular on **Hack The Box**  
+- ⚔️ Top 2 % player on **TryHackMe** & regular on **Hack The Box**  
 - 🔐 Focused on recon, exploitation & purple‑team detection  
-- 🏆 **Goal 2025:** earn *eJPT v2* & *CPTS*, land a Junior Pentester role  
-- 🌍 Bilingual: Spanish 🇲🇽 · English 🇺🇸  
+- 🏆 **Certifications:** *eJPT v2* (2025), *CEH PC*
+- - 🌍 Bilingual: Spanish 🇲🇽 · English 🇺🇸  
 
 ---
 
