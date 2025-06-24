@@ -55,7 +55,7 @@ eJPTv2 · Cybersecurity · Junior Pentester · Content Creator
 ## 🚧 Currently hacking on
 | Track | What I’m doing right now |
 |-------|--------------------------|
-| **Cert prep** | Deep‑dive labs for **eJPT v2** (networks / web / post‑exploitation) |
+| **Cert prep** | Deep‑dive labs for **CPTS** |
 | **Daily reps** | Solving THM/HTB boxes & writing internal notes |
 | **Video** | Posting bite‑size hacking tips on TikTok every Friday |
 | **Tool‑dev** | Writing Python helpers for recon & password auditing |
