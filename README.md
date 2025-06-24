@@ -46,7 +46,7 @@
 - ⚔️ Top 2 % on **TryHackMe** · active on **Hack The Box**
 - 🧠 Specializing in recon, exploitation & detection
 - 🏅 **Certifications:**
-  - `eJPTv2 – 91%` *(INE/OffSec, 2025)*
+  - `eJPTv2` *(INE/OffSec, 2025)*
   - `CEH-PC`
 - 🌍 Bilingual: Spanish 🇲🇽 · English 🇺🇸
 
