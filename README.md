@@ -4,8 +4,11 @@
       ============================================================  -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=👾%20pwnVader&fontAlign=50&fontAlignY=40&fontSize=38&desc=Red%20Team%20%7C%20Recon%20%7C%20Automation&descSize=18&descAlign=50&descAlignY=65&color=4b0082,c300ff,0fffe3&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=pwnVader%20%7C%20Jesus%20Romero&section=header&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=60&desc=eJPTv2%20%7C%20Red%20Team%20%7C%20Cybersecurity%20Content%20Creation&descSize=18&descAlign=50&descAlignY=75&reversal=false" />
 </p>
+
+
+
 
 
 
