@@ -109,7 +109,6 @@
 
 ## 📊 GitHub Activity
 
-![Visitor Count](https://profile-counter.glitch.me/pwnVader/count.svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pwnVader&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical)
 
