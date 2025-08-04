@@ -18,8 +18,6 @@
 **eJPTv2** · Junior Pentester · Cybersecurity Content Creator  
 🌐 **Portfolio:** [pwnvader.github.io](https://pwnvader.github.io/)
 
-> **Mission:** Make offensive-security concepts accessible through open-source tools, short-form video, and hands-on labs.
-
 ---
 
 ## 📬 Find me online
