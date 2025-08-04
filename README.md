@@ -33,9 +33,7 @@
 </a>
 
   </td>
-  <td align="center" valign="middle">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/pwnVader.png" alt="TryHackMe Badge" width="280"/>
-  </td>
+
   </tr>
 </table>
 
