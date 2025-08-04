@@ -2,9 +2,8 @@
 <!--  ============================================================
       PERSONAL README  •  © 2025  Jesús P. Romero  –  pwnVader
       ============================================================  -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=pwnVader%20%7C%20Jesus%20Romero&section=header&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=60&desc=eJPTv2%20%7C%20Red%20Team%20%7C%20Cybersecurity%20Content%20Creation&descSize=18&descAlign=50&descAlignY=75&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=pwnVader%20%7C%20Jesus%20Romero&section=header&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=50&desc=eJPTv2%20%7C%20Red%20Team%20%7C%20Cybersecurity%20Content%20Creation&descSize=16&descAlign=50&descAlignY=68&reversal=false" />
 </p>
 
 
@@ -13,7 +12,8 @@
 
 
 
-# 👾 Hey, I’m **Jesús** <sub>(aka `pwnVader`)</sub>
+
+# 👾 Hey, I’m **Jesus** 
 
 **eJPTv2** · Junior Pentester · Cybersecurity Content Creator  
 🌐 **Portfolio:** [pwnvader.github.io](https://pwnvader.github.io/)
@@ -105,11 +105,22 @@
 
 ---
 
-## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pwnVader&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical)
+## 📚 Reading Progress
+
+**✅ Completed**
+- *Linux Basics for Hackers* – OccupyTheWeb  
+- *The Linux Command Line* – William Shotts
+- *Python Crash Course* – Eric Matthes  
+
+**📖 Currently Reading**
+- *PowerShell for Sysadmins* – Adam Bertram  
+- *The TCP/IP Guide* – Charles M. Kozierok  
+- *Black Hat Python* – Justin Seitz  
 
 ---
+## 📊 GitHub Activity
 
-> 🧩 *Last updated: August 2025* · built with ❤️ in LaTeX, Markdown & open-source tools.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical)
+
+
