@@ -11,7 +11,6 @@
     <samp>Content Creator</samp>
   </h3>
 
-  <br/>
 
   <!-- SOCIALS -->
   <p align="center">
@@ -34,11 +33,14 @@
       <img src="https://img.shields.io/badge/Email-PGP_Key-2ecc71?style=flat-square&logo=protonmail&logoColor=white" />
     </a>
   </p>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHMza2c0d3o1aHp2NDdhYXVmcjBmaThoMW1vMWV1aGxkcHh0Yzl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqxVRm1IaaIGk/giphy.gif" width="450" alt="Hacker typing animation" />
+
 </div>
 
-<br/>
 
+    <div align="center"> 
+        <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPTv2 Certified Junior Penetration Tester" width="100" style="margin-right: 30px;" /> 
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHMza2c0d3o1aHp2NDdhYXVmcjBmaThoMW1vMWV1aGxkcHh0Yzl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqxVRm1IaaIGk/giphy.gif" width="200" alt="Hacker typing animation" />
+  </div>
 
 <!-- SECCIÓN "WHOAMI" ACTUALIZADA CON MENTORÍA -->
 ### 💻 `user@pwnvader:~$ cat whoami.txt`
