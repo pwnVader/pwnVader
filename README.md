@@ -10,8 +10,6 @@
     <span style="color: #555">|</span> 
     <samp>Content Creator</samp>
   </h3>
-
-
   <!-- SOCIALS -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jesuspromero/">
