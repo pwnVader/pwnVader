@@ -1,7 +1,7 @@
 <!-- HEADER SIMPLIFICADO Y PROFESIONAL -->
 <div align="center">
   <h1 align="center">🥷🏻 Jesús P. Romero <span style="color:#555;">//</span> pwnVader</h1>
-  
+
   <!-- ROLES PRINCIPALES -->
   <h3>
     <samp>Jr Pentester</samp> 
@@ -34,9 +34,11 @@
       <img src="https://img.shields.io/badge/Email-PGP_Key-2ecc71?style=flat-square&logo=protonmail&logoColor=white" />
     </a>
   </p>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHMza2c0d3o1aHp2NDdhYXVmcjBmaThoMW1vMWV1aGxkcHh0Yzl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqxVRm1IaaIGk/giphy.gif" width="450" alt="Hacker typing animation" />
 </div>
 
 <br/>
+
 
 <!-- SECCIÓN "WHOAMI" ACTUALIZADA CON MENTORÍA -->
 ### 💻 `user@pwnvader:~$ cat whoami.txt`
