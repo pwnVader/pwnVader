@@ -1,18 +1,15 @@
-<!-- HEADER CON TYPING SVG (VERDE GARANTIZADO) -->
 <div align="center">
   
-  <!-- Banner pwnVader en Verde Neón -->
   <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=130&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=180&lines=cat%20root.txt" alt="pwnVader Typing Effect" />  </a>
 
   <h3>
-    <samp>&lt;/ Identity: <span style="color: #00FF00;">Jesús P. Romero</span> &gt;</samp>
+    <samp>&lt;/ Identity: <span style="color: #00FF00;">Jesus P. Romero</span> &gt;</samp>
   </h3>
   <h3>
-    <samp>[ <span style="color: #e6db74;">Jr Pentester</span> ] :: [ <span style="color: #e6db74;">Cybersecurity Mentor</span> ] :: [ <span style="color: #e6db74;">Content Creator</span> ]</samp>
+    <samp>[ <span style="color: #e6db74;">Jr Pentester</span> ] :: [ <span style="color: #e6db74;">Cybersecurity Instructor</span> ] :: [ <span style="color: #e6db74;">Content Creator</span> ]</samp>
   </h3>
 
-  <!-- SOCIALS (ESTILO DARK OPS) -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jesuspromero/">
       <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
@@ -38,7 +35,6 @@
 <br />
 
 <div align="center"> 
-    <!-- SPACER AUMENTADO (60px + espacios) -->
     <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPTv2 Certified" height="110" style="vertical-align: middle; margin-right: 60px;" /> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHMza2c0d3o1aHp2NDdhYXVmcjBmaThoMW1vMWV1aGxkcHh0Yzl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqxVRm1IaaIGk/giphy.gif" height="110" alt="typing" style="vertical-align: middle;" />
@@ -46,39 +42,36 @@
 
 <br />
 
-<!-- SECCIÓN IDENTITY - MEJORADA CON DIFF PARA LEGIBILIDAD -->
-### 📟 `nmap -sV -sC target:pwnVader`
+### 📟 `nmap --summary target:pwnVader`
 
-<!-- Usamos 'diff' para que los roles y certificados salgan en color (Verde) y sea facil de leer -->
-```diff
-Starting Nmap 7.94 ( https://nmap.org ) at 2025-01-01
-@@ Scan Results: Open Ports & Roles @@
+> **Scan Date:** March 01, 2026
+> **Host Status:** `UP [127.0.0.1]`
 
-+ 2026/tcp  open  Systems Engineering @ TECNM (Grad. 2026)
-+ 8080/tcp  open  Mentor @ Nación Hacker (Andromeda)
-+ 1337/tcp  open  eJPTv2
-+ 443/tcp   open  Content Creator (28k+ on TikTok)
+| Port/Service | Identifier | Payload | Status |
+| :--- | :--- | :--- | :--- |
+| `80/tcp` | 🚗 **Volkswagen** | Data Integrity & Automation | `[RUNNING]` |
+| `443/tcp` | 🌍 **Social** | #50 Global Cyber Creator (30k+) | `[ACTIVE]` |
+| `2026/tcp` | 🎓 **Academic** | Systems Engineering @ TECNM | `[V1.0]` |
+| `8080/tcp` | 🤖 **Admin** | NetSentinel Instructor (MCP/IA) | `[LISTENING]` |
 
-@@ Script Output: Certification Check @@
 
-+ [eJPTv2] Junior Penetration Tester
-+ [CEH-PC] 
-+ [CCNA-1] Networking Basics
-- [CPTS]   In Progress (Brute Forcing...)
 
-Nmap done: 1 IP address (1 host up) scanned in 1.33 seconds
-```
+
+**--- [ CERTIFICATES FOUND ] ---**
+
+`✅ eJPTv2`   |   `✅ CEH-PC`   |   `✅ CCNA-1`   |   `⏳ CPTS (In Progress)`
 
 ---
 
-<!-- EXPERIENCIA - ESTILO LOGS DEL SISTEMA -->
 ### 📜 `cat /var/log/career.log`
 
 | Timestamp | Process / Role | Origin / Org | Payload / Description |
 | :--- | :--- | :--- | :--- |
-| `CURRENT` | **`ROOT::MENTOR`** | **Nación Hacker** | 🤝 Guiding talent in Cybersecurity & Red Teaming. |
-| `ACTIVE` | **`USR::WRITER`** | **Community** | 📢 Leading 28k+ members in cyber-awareness. |
-| `INIT` | **`STD::STUDENT`** | **TECNM** | 🛡️ Developing Python/Bash automation tools. |
+| `CURRENT` | **`ROOT::INTERN`** | **Volkswagen** | 🛡️ Securing data integrity & predictive auditing. |
+| `ACTIVE` | **`USR::SPEAKER`** | **NicaSecurity** | 🎤 Technical Clinics & Red Team capsules. |
+| `STABLE` | **`USR::EXPERT`** | **pwnVader** | 📢 Top 50 Global Creator | 30k+ followers. |
+| `RECENT` | **`SYS::INSTR`** | **NetSentinel** | 🤖 Orchestrating offensive tools with MCP. |
+| `DONE` | **`SYS::MENTOR`** | **Nación Hacker** | 🤝 Mentored emerging talent in Andromeda. |
 
 ---
 
