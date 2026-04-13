@@ -1,33 +1,34 @@
 <div align="center">
   
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=130&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=180&lines=cat%20root.txt" alt="pwnVader Typing Effect" />  </a>
+  <a href="https://pwnvader.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=7EE787&center=true&vCenter=true&width=600&height=80&lines=whoami;cat+root.txt;./recon.sh" alt="pwnVader Typing Effect" />
+  </a>
 
-  <h3>
-    <samp>&lt;/ Identity: <span style="color: #00FF00;">Jesus P. Romero</span> &gt;</samp>
-  </h3>
-  <h3>
-    <samp>[ <span style="color: #e6db74;">Jr Pentester</span> ] :: [ <span style="color: #e6db74;">Cybersecurity Instructor</span> ] :: [ <span style="color: #e6db74;">Content Creator</span> ]</samp>
-  </h3>
+  <h2>
+    <samp>&lt;/ Identity: <span style="color: #7EE787;">Jesus P. Romero</span> &gt;</samp>
+  </h2>
+  <h4>
+    <samp>[ <span style="color: #58a6ff;">Offensive Security / Red Team</span> ] :: [ <span style="color: #58a6ff;">Cybersecurity Instructor</span> ] :: [ <span style="color: #58a6ff;">Content Creator</span> ]</samp>
+  </h4>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jesuspromero/">
-      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
-    </a>
     <a href="https://pwnvader.github.io/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=google-chrome&logoColor=7EE787" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/perezromerojesus/">
+      <img src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
     </a>
     <a href="https://www.tiktok.com/@pwnvader">
-      <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+      <img src="https://img.shields.io/badge/TIKTOK-161b22?style=for-the-badge&logo=tiktok&logoColor=ffffff" alt="TikTok" />
     </a>
-    <a href="https://app.hackthebox.com/users/2140109">
-      <img src="https://img.shields.io/badge/HTB-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+    <a href="https://app.hackthebox.com/users/1247070">
+      <img src="https://img.shields.io/badge/HTB-161b22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HTB" />
     </a>
-    <a href="https://tryhackme.com/r/p/pwnVader">
-      <img src="https://img.shields.io/badge/THM-000000?style=for-the-badge&logo=tryhackme&logoColor=C1272D" />
+    <a href="https://tryhackme.com/p/pwnVader">
+      <img src="https://img.shields.io/badge/THM-161b22?style=for-the-badge&logo=tryhackme&logoColor=C1272D" alt="THM" />
     </a>
-    <a href="mailto:contacto.broadways405@passmail.net">
-      <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=for-the-badge&logo=protonmail&logoColor=2ecc71" />
+    <a href="mailto:contacto.jesuspr.upon866@passmail.com">
+      <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-161b22?style=for-the-badge&logo=protonmail&logoColor=a371f7" alt="Mail" />
     </a>
   </p>
 </div>
@@ -35,31 +36,29 @@
 <br />
 
 <div align="center"> 
-    <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPTv2 Certified" height="110" style="vertical-align: middle; margin-right: 60px;" /> 
+    <a href="https://pwnvader.github.io/"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPTv2 Certified" height="110" style="vertical-align: middle; margin-right: 60px;" /></a> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHMza2c0d3o1aHp2NDdhYXVmcjBmaThoMW1vMWV1aGxkcHh0Yzl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqxVRm1IaaIGk/giphy.gif" height="110" alt="typing" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHMza2c0d3o1aHp2NDdhYXVmcjBmaThoMW1vMWV1aGxkcHh0Yzl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqxVRm1IaaIGk/giphy.gif" height="110" alt="typing" style="vertical-align: middle; border-radius: 8px;" />
 </div>
 
 <br />
 
 ### 📟 `nmap --summary target:pwnVader`
 
-> **Scan Date:** March 01, 2026
+> **Scan Date:** `$(date +%Y-%m-%d)`
 > **Host Status:** `UP [127.0.0.1]`
 
 | Port/Service | Identifier | Payload | Status |
 | :--- | :--- | :--- | :--- |
-| `80/tcp` | 🚗 **Volkswagen** | Data Integrity & Automation | `[RUNNING]` |
-| `443/tcp` | 🌍 **Social** | #50 Global Cyber Creator (30k+) | `[ACTIVE]` |
-| `2026/tcp` | 🎓 **Academic** | Systems Engineering @ TECNM | `[V1.0]` |
-| `8080/tcp` | 🤖 **Admin** | NetSentinel Instructor (MCP/IA) | `[LISTENING]` |
+| `80/tcp` | 🚗 **Volkswagen Group** | Data Integrity & Auditing Automation | `[RUNNING]` |
+| `443/tcp` | 🌍 **Social Eng** | Creator (28.3k+ TikTok, 2.2K IN) | `[ACTIVE]` |
+| `2026/tcp` | 🎓 **Academic** | Systems Engineering @ TECNM | `[BUILD]` |
+| `8080/tcp` | 🤖 **Network** | Speaker (NetSentinel, NicaSecurity) | `[LISTENING]` |
 
+<br/>
 
-
-
-**--- [ CERTIFICATES FOUND ] ---**
-
-`✅ eJPTv2`   |   `✅ CEH-PC`   |   `✅ CCNA-1`   |   `⏳ CPTS (In Progress)`
+> **[ CERTIFICATES FOUND ]**
+> `🛡️ eJPTv2` &nbsp;&nbsp;|&nbsp;&nbsp; `🏅 CEH-PC` &nbsp;&nbsp;|&nbsp;&nbsp; `🌐 CCNA-1` &nbsp;&nbsp;|&nbsp;&nbsp; <span style="color:#d29922">`⏳ CPTS (In Progress)`</span>
 
 ---
 
@@ -67,28 +66,27 @@
 
 | Timestamp | Process / Role | Origin / Org | Payload / Description |
 | :--- | :--- | :--- | :--- |
-| `CURRENT` | **`ROOT::INTERN`** | **Volkswagen** | 🛡️ Securing data integrity & predictive auditing. |
-| `ACTIVE` | **`USR::SPEAKER`** | **NicaSecurity** | 🎤 Technical Clinics & Red Team capsules. |
-| `STABLE` | **`USR::EXPERT`** | **pwnVader** | 📢 Top 50 Global Creator | 30k+ followers. |
-| `RECENT` | **`SYS::INSTR`** | **NetSentinel** | 🤖 Orchestrating offensive tools with MCP. |
-| `DONE` | **`SYS::MENTOR`** | **Nación Hacker** | 🤝 Mentored emerging talent in Andromeda. |
+| `CURRENT` | **`ROOT::INTERN`** | **Volkswagen** | ⚙️ Securing data integrity & predictive auditing. |
+| `ACTIVE` | **`USR::SPEAKER`** | **NicaSecurity** | 🎤 Technical Clinics: Road to eJPT Lab Series. |
+| `STABLE` | **`USR::EXPERT`** | **TryHackMe** | 📢 Top 1% Ranked Player | Constant evolution. |
+| `RECENT` | **`SYS::INSTR`** | **NetSentinel** | 🤖 Orchestrating offensive tools with MCP & AI. |
+| `DONE` | **`SYS::MENTOR`** | **Nación Hacker** | 🤝 Mentored emerging talent in offensive logic. |
 
 ---
 
 ### 🛠️ `~/bin/arsenal`
 
 <div align="left">
-  <!-- LENGUAJES Y HERRAMIENTAS - MANTENEMOS TU SELECCIÓN PERO ORDENADA -->
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&logo=kali-linux&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Bash-161b22?style=for-the-badge&logo=gnu-bash&logoColor=7EE787" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=f1e05a" />
+  <img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=f85149" />
+  <img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=FF7300" />
   <br/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF7300?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=java&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4479A1" />
 </div>
 
 ---
@@ -109,24 +107,24 @@
   
 ### 📊 `htop --sort-key=PERCENT_CPU`
 
-<!-- GRÁFICAS CON TEMA DARK/VERDE -->
+<!-- GitHub Readme Stats Themed to Portfolio Colors -->
 <a href="https://github.com/pwnVader">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pwnVader&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00ff00&icon_color=00ff00" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pwnVader&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7EE787&icon_color=7EE787&text_color=c9d1d9" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnVader&layout=compact&theme=radical&hide_border=true&langs_count=5&bg_color=0d1117&title_color=7EE787&icon_color=7EE787&text_color=c9d1d9" />
 </a>
 
 <br/>
 
-<!-- LECTURAS ACTUALES ESTILO BADGE NEGRO -->
-<img src="https://img.shields.io/badge/EXEC_READING-Black_Hat_Python-000?style=flat-square&logo=book&logoColor=white" />
-<img src="https://img.shields.io/badge/EXEC_READING-TCP%2FIP_Guide-000?style=flat-square&logo=book&logoColor=white" />
-<img src="https://img.shields.io/badge/EXEC_READING-PowerShell_SysAdmin-000?style=flat-square&logo=book&logoColor=white" />
+<!-- Execution Read List -->
+<img src="https://img.shields.io/badge/EXEC_READING-Black_Hat_Python-161b22?style=flat-square&logo=book&logoColor=7EE787" />
+<img src="https://img.shields.io/badge/EXEC_READING-TCP%2FIP_Guide-161b22?style=flat-square&logo=book&logoColor=7EE787" />
+<img src="https://img.shields.io/badge/EXEC_READING-PowerShell_SysAdmin-161b22?style=flat-square&logo=book&logoColor=7EE787" />
 
 <br/>
 <br/>
 
-<!-- FOOTER GLITCH / DIGITAL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2&section=footer" />
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7EE787&height=2&section=footer" />
 <p><samp>Connection Terminated. EOF.</samp></p>
 
 </div>
