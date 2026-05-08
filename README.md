@@ -36,7 +36,9 @@
 <br />
 
 <div align="center"> 
-    <a href="https://pwnvader.github.io/"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPTv2 Certified" height="110" style="vertical-align: middle; margin-right: 60px;" /></a> 
+    <a href="https://academy.hackthebox.com/achievement/badge/847979fe-4aca-11f1-82d1-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/6efd8ab4133b94c4b87861626c3880a3/logo.png" alt="COAE Certified" height="110" style="vertical-align: middle;" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://certs.ine.com/a3d19feb-3d6e-4102-ba75-75e6013bfeee#acc.SaZlAfnt"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPTv2 Certified" height="110" style="vertical-align: middle;" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHMza2c0d3o1aHp2NDdhYXVmcjBmaThoMW1vMWV1aGxkcHh0Yzl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqxVRm1IaaIGk/giphy.gif" height="110" alt="typing" style="vertical-align: middle; border-radius: 8px;" />
 </div>
@@ -51,14 +53,14 @@
 | Port/Service | Identifier | Payload | Status |
 | :--- | :--- | :--- | :--- |
 | `80/tcp` | 🚗 **Volkswagen Group** | Data Integrity & Auditing Automation | `[RUNNING]` |
-| `443/tcp` | 🌍 **Social Eng** | Creator (28.3k+ TikTok, 2.2K IN) | `[ACTIVE]` |
+| `443/tcp` | 🌍 **Social Eng** | Creator (28.3k+ TikTok, 2.3K IN) | `[ACTIVE]` |
 | `2026/tcp` | 🎓 **Academic** | Systems Engineering @ TECNM | `[BUILD]` |
 | `8080/tcp` | 🤖 **Network** | Speaker (NetSentinel, NicaSecurity) | `[LISTENING]` |
 
 <br/>
 
 > **[ CERTIFICATES FOUND ]**
-> `🛡️ eJPTv2` &nbsp;&nbsp;|&nbsp;&nbsp; `🏅 CEH-PC` &nbsp;&nbsp;|&nbsp;&nbsp; `🌐 CCNA-1` &nbsp;&nbsp;|&nbsp;&nbsp; <span style="color:#d29922">`⏳ CPTS (In Progress)`</span>
+> `🤖 COAE` &nbsp;&nbsp;|&nbsp;&nbsp; `🛡️ eJPTv2` &nbsp;&nbsp;|&nbsp;&nbsp; `🏅 CEH-PC` &nbsp;&nbsp;|&nbsp;&nbsp; `🌐 CCNA-1` &nbsp;&nbsp;|&nbsp;&nbsp; <span style="color:#d29922">`⏳ CPTS (In Progress)`</span>
 
 ---
 
