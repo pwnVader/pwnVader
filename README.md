@@ -27,7 +27,7 @@
     <a href="https://tryhackme.com/p/pwnVader">
       <img src="https://img.shields.io/badge/THM-161b22?style=for-the-badge&logo=tryhackme&logoColor=C1272D" alt="THM" />
     </a>
-    <a href="mailto:contacto.jesuspr.upon866@passmail.com">
+    <a href="mailto:contacto@pwnvader.com">
       <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-161b22?style=for-the-badge&logo=protonmail&logoColor=a371f7" alt="Mail" />
     </a>
   </p>
