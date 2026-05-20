@@ -60,7 +60,7 @@
 <br/>
 
 > **[ CERTIFICATES FOUND ]**
-> `🤖 COAE` &nbsp;&nbsp;|&nbsp;&nbsp; `🛡️ eJPTv2` &nbsp;&nbsp;|&nbsp;&nbsp; `🏅 CEH-PC` &nbsp;&nbsp;|&nbsp;&nbsp; `🌐 CCNA-1` &nbsp;&nbsp;|&nbsp;&nbsp; <span style="color:#d29922">`⏳ CPTS (In Progress)`</span>
+> `🤖 COAE (Perfect Score 100/100)` &nbsp;&nbsp;|&nbsp;&nbsp; `🛡️ eJPTv2` &nbsp;&nbsp;|&nbsp;&nbsp; `🏅 CEH-PC` &nbsp;&nbsp;|&nbsp;&nbsp; `🌐 CCNA-1` &nbsp;&nbsp;|&nbsp;&nbsp; <span style="color:#d29922">`⏳ CPTS (In Progress)`</span>
 
 ---
 
@@ -95,13 +95,10 @@
 
 ### 📡 `ls -la ~/projects/deployed`
 
-| Perms | ID | Project Name | Type | Status |
+| Perms | Project Name | Class | Tech Stack | Detailed Payload & Features |
 | :--- | :--- | :--- | :--- | :--- |
-| `rwxr-x` | 01 | [**DorkSniper**](https://pwnvader.github.io/DorkSniper/) | 🔍 OSINT | `[Stable]` |
-| `rwxr-x` | 02 | [**DarkScan**](https://github.com/pwnVader/DarkScan) | 🌐 Recon | `[Active]` |
-| `rw-r--` | 03 | [**pwn-cards**](https://github.com/pwnVader/pwn-cards) | 🎓 Edu | `[Updated]` |
-| `r--r--` | 04 | [**BruteShield**](https://pwnvader.github.io/BruteShield/) | 🔐 Crypto | `[v1.0]` |
-| `rw-r--` | 05 | [**HackerHub**](https://pwnvader.github.io/HackerHub/) | 🧰 Resource | `[Maint]` |
+| `rwxr-x` | [**docs.pwnvader.com**](https://docs.pwnvader.com) | `📖 OffSec KB & Blog` | Astro, Starlight, Tailwind CSS v4, MDX, Pagefind | **Bilingual study blog and OffSec writeups portal.** Covers the entire hands-on curriculum of **CPTS** and (soon) **COAE (Perfect Score 100/100 notes)**. Features 37+ detailed cheatsheets spanning Active Directory, Web, PrivEsc, Pivoting, and AI Red Teaming under a custom Catppuccin CRT console layout. |
+| `rwxr-x` | [**hacking.pwnvader.com**](https://hacking.pwnvader.com) | `🛠️ Serverless Web Tools` | HTML, Javascript, CSS, WebCrypto API | **Zero-installation, serverless companion offensive utility suite.** Packed with an in-browser reverse shell command generator, passive CMS/WordPress configuration auditor, JWT inspector, network tunnel visualizer, Hashcat mask builder, and robust encoding modules. |
 
 ---
 
