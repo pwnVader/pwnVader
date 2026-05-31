@@ -15,7 +15,7 @@
     <a href="https://pwnvader.github.io/">
       <img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=google-chrome&logoColor=7EE787" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/perezromerojesus/">
+    <a href="https://www.linkedin.com/in/jesuspromero">
       <img src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
     </a>
     <a href="https://www.tiktok.com/@pwnvader">
