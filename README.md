@@ -1,18 +1,18 @@
 <div align="center">
   
-  <a href="https://pwnvader.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=7EE787&center=true&vCenter=true&width=600&height=80&lines=whoami;cat+root.txt;./recon.sh" alt="pwnVader Typing Effect" />
+  <a href="https://pwnvader.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=7EE787&center=true&vCenter=true&width=600&height=80&lines=whoami;cat+root.txt;./recon.sh;pwnvader.com" alt="pwnVader Typing Effect" />
   </a>
 
   <h2>
     <samp>&lt;/ Identity: <span style="color: #7EE787;">Jesus P. Romero</span> &gt;</samp>
   </h2>
   <h4>
-    <samp>[ <span style="color: #58a6ff;">Offensive Security / Red Team</span> ] :: [ <span style="color: #58a6ff;">Cybersecurity Instructor</span> ] :: [ <span style="color: #58a6ff;">Content Creator</span> ]</samp>
+    <samp>[ <span style="color: #58a6ff;">Pentester @ Grupo Scanda</span> ] :: [ <span style="color: #58a6ff;">Security Researcher & Bug Hunter</span> ] :: [ <span style="color: #58a6ff;">Offensive Security Instructor</span> ]</samp>
   </h4>
 
   <p align="center">
-    <a href="https://pwnvader.github.io/">
+    <a href="https://pwnvader.com/">
       <img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=google-chrome&logoColor=7EE787" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/jesuspromero">
@@ -36,7 +36,7 @@
 <br />
 
 <div align="center"> 
-    <a href="https://academy.hackthebox.com/achievement/badge/847979fe-4aca-11f1-82d1-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/6efd8ab4133b94c4b87861626c3880a3/logo.png" alt="COAE Certified" height="110" style="vertical-align: middle;" /></a>
+    <a href="https://academy.hackthebox.com/achievement/badge/847979fe-4aca-11f1-82d1-bea50ffe6cb4"><img src="https://static.hackthebox.com/academy/badges/6efd8ab4133b94c4b87861626c3880a3/logo.png" alt="COAE Certified" height="110" style="vertical-align: middle;" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://certs.ine.com/a3d19feb-3d6e-4102-ba75-75e6013bfeee#acc.SaZlAfnt"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPTv2 Certified" height="110" style="vertical-align: middle;" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,10 +52,10 @@
 
 | Port/Service | Identifier | Payload | Status |
 | :--- | :--- | :--- | :--- |
-| `80/tcp` | 🚗 **Volkswagen Group** | Data Integrity & Auditing Automation | `[RUNNING]` |
-| `443/tcp` | 🌍 **Social Eng** | Creator (28.3k+ TikTok, 2.3K IN) | `[ACTIVE]` |
+| `80/tcp` | 🛡️ **Grupo Scanda** | Pentesting, Active Directory & Banking Infra | `[RUNNING]` |
+| `443/tcp` | 🎯 **Security Research** | Bug Bounty & Disclosures (NASA, Files.com) | `[ACTIVE]` |
+| `8080/tcp` | 🌍 **Social Eng** | Creator (28.3k+ TikTok, 2.3k+ LinkedIn) | `[LISTENING]` |
 | `2026/tcp` | 🎓 **Academic** | Systems Engineering @ TECNM | `[BUILD]` |
-| `8080/tcp` | 🤖 **Network** | Speaker (NetSentinel, NicaSecurity) | `[LISTENING]` |
 
 <br/>
 
@@ -68,9 +68,11 @@
 
 | Timestamp | Process / Role | Origin / Org | Payload / Description |
 | :--- | :--- | :--- | :--- |
-| `CURRENT` | **`ROOT::INTERN`** | **Volkswagen** | ⚙️ Securing data integrity & predictive auditing. |
+| `CURRENT` | **`ROOT::PENTESTER`** | **Grupo Scanda** | 🛡️ Offensive security assessments & banking/financial infra testing. |
+| `ACTIVE` | **`USR::RESEARCHER`** | **Bug Bounty / VDP** | 🎯 Vulnerability research & responsible disclosures (NASA, Files.com). |
+| `DONE` | **`SYS::INTERN`** | **Volkswagen Group** | ⚙️ Audit automation & data integrity engineering (Internship completed). |
 | `ACTIVE` | **`USR::SPEAKER`** | **NicaSecurity** | 🎤 Technical Clinics: Road to eJPT Lab Series. |
-| `STABLE` | **`USR::EXPERT`** | **TryHackMe** | 📢 Top 1% Ranked Player | Constant evolution. |
+| `STABLE` | **`USR::EXPERT`** | **TryHackMe** | 📢 Top 1% Ranked Player \| Constant evolution. |
 | `RECENT` | **`SYS::INSTR`** | **NetSentinel** | 🤖 Orchestrating offensive tools with MCP & AI. |
 | `DONE` | **`SYS::MENTOR`** | **Nación Hacker** | 🤝 Mentored emerging talent in offensive logic. |
 
@@ -87,7 +89,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=java&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Active_Directory-161b22?style=for-the-badge&logo=windows&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4479A1" />
 </div>
 
@@ -97,8 +99,9 @@
 
 | Perms | Project Name | Class | Tech Stack | Detailed Payload & Features |
 | :--- | :--- | :--- | :--- | :--- |
-| `rwxr-x` | [**docs.pwnvader.com**](https://docs.pwnvader.com) | `📖 OffSec KB & Blog` | Astro, Starlight, Tailwind CSS v4, MDX, Pagefind | **Bilingual study blog and OffSec writeups portal.** Covers the entire hands-on curriculum of **CPTS** and (soon) **COAE (Perfect Score 100/100 notes)**. Features 37+ detailed cheatsheets spanning Active Directory, Web, PrivEsc, Pivoting, and AI Red Teaming under a custom Catppuccin CRT console layout. |
-| `rwxr-x` | [**hacking.pwnvader.com**](https://hacking.pwnvader.com) | `🛠️ Serverless Web Tools` | HTML, Javascript, CSS, WebCrypto API | **Zero-installation, serverless companion offensive utility suite.** Packed with an in-browser reverse shell command generator, passive CMS/WordPress configuration auditor, JWT inspector, network tunnel visualizer, Hashcat mask builder, and robust encoding modules. |
+| `rwxr-x` | [**pwnvader.com**](https://pwnvader.com) | `⚡ Main Portfolio` | Astro v6, Tailwind CSS v4, TypeScript | **Professional portfolio and identity hub.** Fully responsive CRT hacker terminal layout with i18n support, security advisories, and credentials showcase. |
+| `rwxr-x` | [**docs.pwnvader.com**](https://docs.pwnvader.com) | `📖 OffSec KB & Blog` | Astro, Starlight, Tailwind CSS v4, MDX, Pagefind | **Bilingual study blog and OffSec writeups portal.** Covers the entire hands-on curriculum of **CPTS** and **COAE (Perfect Score 100/100)** notes. Features 37+ detailed cheatsheets spanning Active Directory, Web, PrivEsc, Pivoting, and AI Red Teaming. |
+| `rwxr-x` | [**hacking.pwnvader.com**](https://hacking.pwnvader.com) | `🛠️ Serverless Web Tools` | HTML, Javascript, CSS, WebCrypto API | **Zero-installation, serverless companion offensive utility suite.** In-browser reverse shell generator, passive CMS/WordPress auditor, JWT inspector, tunnel visualizer, Hashcat mask builder, and encoders. |
 
 ---
 
@@ -117,7 +120,7 @@
 <!-- Execution Read List -->
 <img src="https://img.shields.io/badge/EXEC_READING-Black_Hat_Python-161b22?style=flat-square&logo=book&logoColor=7EE787" />
 <img src="https://img.shields.io/badge/EXEC_READING-TCP%2FIP_Guide-161b22?style=flat-square&logo=book&logoColor=7EE787" />
-<img src="https://img.shields.io/badge/EXEC_READING-PowerShell_SysAdmin-161b22?style=flat-square&logo=book&logoColor=7EE787" />
+<img src="https://img.shields.io/badge/EXEC_READING-Active_Directory_Attacks-161b22?style=flat-square&logo=book&logoColor=7EE787" />
 
 <br/>
 <br/>
